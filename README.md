@@ -1,5 +1,5 @@
 ## 脚本说明
-将quiver数据转换为vnotebook的数据格式，适用于Windows上powershell脚本。
+将quiver数据转换为vnotebook的数据格式，适用于Windows上的powershell脚本。
 
 ## 使用方法
 1. 修改源文件及目标文件路径后保存(21-22行)
